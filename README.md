@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋, I'm Zeamanual</h1>
 
 ###
 
-<p align="left">🔭 I’m interested in Web development, Blockchain and ML.<br>✨  I’m currently working on Web development.<br>🎯 Goals:  I’m looking to collaborate on any kind of projects that are related to software development.<br>📫  How to reach me, use zeamanualfeleke@gamil.com</p>
+<p align="left">🔭 I’m interested in Web development, Blockchain and ML.<br>✨ I’m currently working on Web development.<br>🎯 I’m looking to collaborate on any kind of projects that are related to software development.</p>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
   <img width="12" />
@@ -60,19 +60,6 @@
   <a href="https://twitter.com/ZeamanualFeleke" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zeamanual/zeamanual/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zeamanual&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeamanual&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
