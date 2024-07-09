@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" height="30" alt="Next.js logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="30" alt="Next.js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
